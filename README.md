@@ -1,6 +1,6 @@
 ### The Task
 
-You are required to create a simple auto-search feature similar to [this one](https://www.maccosmetics.com/) where-by, as you type, the data is checked against a Node server and the response is then loaded in. You can style this however you wish and can implement it however you wish but you MUST use Javascript/React and Node to accomplish this. This has already been setup for you in the source code provided. Some general tips on starting:
+Required to create a simple auto-search feature similar to [this one](https://www.maccosmetics.com/) where-by, as you type, the data is checked against a Node server and the response is then loaded in. You can style this however you wish and can implement it however you wish but you MUST use Javascript/React and Node to accomplish this. This has already been setup for you in the source code provided. Some general tips on starting:
 
 * The point of entry for the app can be found in the 'app/scripts/main.js' file -- work from this file for your app code
 * The server with the response can be found in the 'server/app.js' file -- work from this file to complete the Node server setup
