@@ -1,4 +1,4 @@
-# ELC Javscript Coding Test
+# ELC Javscript 
 
 The ELC Javascript Coding Test is a way for you to showcase your own approach to coding. It allows you to create something with your own style and preferences. You can change the code to match your own preferences however you like. Feel free to change the setup, code or approach however you like. PLEASE READ ALL INSTRUCTIONS BELOW BEFORE STARTING.
 
@@ -104,8 +104,4 @@ The data in the data.js file uses the following JSON Schema:
         "tags": [ "ojon", "conditioner" ] // The tags for the product
     }
 
-## Additional Submission Guidelines
 
-* Please DELETE the node_modules folder prior to sending your code for review
-* Don't forget to include CSS/SCSS styling
-* If any additional commands  are necessary to run your code, please make sure this is documented
